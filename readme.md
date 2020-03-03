@@ -3,7 +3,7 @@
     <img class="img-responsive" src="https://bcw.blob.core.windows.net/public/img/inspire.jpg"/>
 </div>
 
-Inspiration can be difficult to achieve. Keep track of your many important tasks and the weather with the subtle help of a random daily quote and beatiful scenery.
+Inspiration can be difficult to achieve. Keep track of your many important tasks and the weather with the subtle help of a random daily quote and beautiful scenery.
 
 ## Goals
 In this project students will demonstrate their ability to build a more robust application that requires multiple asynchronous calls to retrieve several different pieces of data.
@@ -23,7 +23,7 @@ Take a look at the weather controller and service for a complete example of gett
 
 ### Step 2
 
-Your goal will be to put all of the data gathered from the services together in a visually pleasing format as well as ensuring the functionality of a todo list. As you review each of these controllers think about where you are going to put that data on your screen and be sure the HTML is set up to recieve it.
+Your goal will be to put all of the data gathered from the services together in a visually pleasing format as well as ensuring the functionality of a todo list. As you review each of these controllers think about where you are going to put that data on your screen and be sure the HTML is set up to receive it.
 
 *Feel free to use the image above for inspiration.*
 
@@ -105,12 +105,12 @@ The todos portion of this project is the largest and will probably take the most
 - Allow the user to toggle the clock from, 12hr to 24hr. 
 - Include an Icon to show what the weather is sunny/cloudy/rainy
 - Add a button to cycle to next quote/picture
-- Could you encorporate a deadline for some of the todos(all todos have a deadline property that accepts any value)
+- Could you incorporate a deadline for some of the todos(all todos have a deadline property that accepts any value)
 - Add a settings so user can change to a new "theme" (font, background colors, etc.)
 - Clicking the weather should let the user toggle between Celsius, Fahrenheit, or even Kelvin display
 - `BONUS DIFFICULTY` The todo list shouldn't have to redraw every item just because one of them changed. 
     - If you think through some of the actions being performed you might find a way to optimize the list by only updating the one todo that changes at a time
-    - Everytime you update a todo you shouldn't have to re-`get` the entire list you already know what changed about the one todo
+    - Every time you update a todo you shouldn't have to re-`get` the entire list you already know what changed about the one todo
 
 ---------------------------------
 
