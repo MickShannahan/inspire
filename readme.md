@@ -117,18 +117,17 @@ The todos portion of this project is the largest and will probably take the most
 ## REQUIREMENTS:
  - `Visualization`
    - The data from the services are each rendered. 
-        - Quote (quote and author)
-        - Image (only the image is required, however feel free to include other data)
-        - Weather (The temp is displayed, feel free to add other pieces)
-        - Todo (the new todo form exists, and any todos are rendered *GET*)
-   - The image should be on large display with at least one other element positioned over the top of the image.
-   - A form to add a new todo can be accessed and when submitted the page does not reload
+        - [ ] Quote: Quote and Author
+        - [ ] Image: The image is required, however the additional data is optional
+        - [ ] Weather: The temp is displayed in Fahrenheit/Celsius with a click toggling between
+        - [ ] Todo: Todo's are shown on the page including a count of remaining tasks to complete
+   - [ ] The image should be on large display with at least one other element positioned over the top of the image.
+   - [ ] When adding a Todo the page does not reload
  - `Functionality`
-    - Todo's can be added to a list (POST)
-    - Todo's can be removed (DELETE)
-    - Todo's can be marked complete (PUT)
-    - The todolist shows the total count of tasks currently being tracked
-    - The todolist takes advantage of the TodoService to provide persistent data
+    - [ ] Todo's can be added to a list (POST)
+    - [ ] Todo's can be removed (DELETE)
+    - [ ] Todo's can be marked complete (PUT)
+    - [ ] The data in the Todos persists on reload
 
 ### Finished?
 When You are finished please submit the link to the project in the backpack. This link must be the live site.
