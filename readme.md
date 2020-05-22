@@ -1,6 +1,6 @@
 # Inspire
 <div class="text-center">
-    <img class="img-responsive" src="https://bcw.blob.core.windows.net/public/img/inspire.jpg"/>
+    <img class="img-responsive" src="/inspire.png"/>
 </div>
 
 Inspiration can be difficult to achieve. Keep track of your many important tasks and the weather with the subtle help of a random daily quote and beautiful scenery.
