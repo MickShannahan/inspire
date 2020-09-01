@@ -1,4 +1,4 @@
-import todoService from "../Services/TodoService";
+import todoService from "../Services/TodoService.js";
 
 //TODO Create the draw function
 function _drawTodos() { }
