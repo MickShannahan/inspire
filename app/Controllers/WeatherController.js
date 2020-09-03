@@ -11,7 +11,7 @@ function drawWeather() {
 export default class WeatherController {
   constructor() {
     ProxyState.on("weather", drawWeather);
-    this.getWeather
+    this.getWeather()
   }
 
   getWeather() {
