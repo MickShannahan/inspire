@@ -1,5 +1,5 @@
-import TodoController from "./controllers/TodoController.js";
-import WeatherController from "./controllers/WeatherController.js";
+import TodoController from "./Controllers/TodoController.js";
+import WeatherController from "./Controllers/WeatherController.js";
 
 
 //TODO Dont forget to register all your controllers	
